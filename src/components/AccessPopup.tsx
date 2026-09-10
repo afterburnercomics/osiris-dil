@@ -5,6 +5,7 @@ import { motion, AnimatePresence } from 'framer-motion';
 import { X } from 'lucide-react';
 
 export default function AccessPopup() {
+return null;
   const [visible, setVisible] = useState(false);
 
   useEffect(() => {
